@@ -1,5 +1,3 @@
 hello
 
-hi
-
 new branch
